@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import SwiftTMEService
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        TMEService.shared.fetchCategories(success: { [weak self] (category) in
+            print("category.name: \(category.name)")
+        }) { [weak self] (error) in
+        }
     }
 
     override func didReceiveMemoryWarning() {

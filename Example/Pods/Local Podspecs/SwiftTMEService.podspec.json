@@ -1,0 +1,23 @@
+{
+  "name": "SwiftTMEService",
+  "version": "0.1.0",
+  "summary": "This pod provide TradeME service",
+  "swift_version": "4.0",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hanmbink/SwiftTMEService",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hanmbink": "fxmmc@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/hanmbink/SwiftTMEService.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftTMEService/Classes/**/*"
+}

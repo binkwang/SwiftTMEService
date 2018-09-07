@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		086BB108434F5F845653F58A /* SwiftTMEService.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftTMEService.podspec; path = ../SwiftTMEService.podspec; sourceTree = "<group>"; };
+		086BB108434F5F845653F58A /* SwiftTMEService.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftTMEService.podspec; path = ../SwiftTMEService.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2075084D2BC570E480795132 /* Pods_SwiftTMEService_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftTMEService_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D35DEC85801FC4CC3B5CE74 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2D35DEC85801FC4CC3B5CE74 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5F1F51779441F02F978D2990 /* Pods_SwiftTMEService_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftTMEService_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* SwiftTMEService_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTMEService_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		BDB3CA8A2F72311B5CAD2FE5 /* Pods-SwiftTMEService_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTMEService_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftTMEService_Example/Pods-SwiftTMEService_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D0D734164F5C8501161E2EC0 /* Pods-SwiftTMEService_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTMEService_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftTMEService_Tests/Pods-SwiftTMEService_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D666FF723812B9593D81865F /* Pods-SwiftTMEService_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTMEService_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftTMEService_Example/Pods-SwiftTMEService_Example.release.xcconfig"; sourceTree = "<group>"; };
-		FF95E529D9384F651D08279A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FF95E529D9384F651D08279A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
