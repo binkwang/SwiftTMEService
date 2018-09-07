@@ -42,7 +42,7 @@ public struct TMECategory: Decodable {
         case subcategories = "Subcategories"
     }
     
-    var id: String { //--- used for listing searching, format: 0269
+    public var id: String { //--- used for listing searching, format: 0269
         var id = ""
         if let number = number, !(number.isEmpty) {
             let numberComponent: [String] = number.components(separatedBy: "-")
